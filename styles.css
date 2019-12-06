@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 1em;
+    align-content: center;
+}
+
+.navbar {
+    background: white;
+}
+
+Header {
+    
+    background: #88e7ff;
+    background-image: url(/images/sopeswithsalsa.jpg);
+    background-size: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-content: center;
+    height: 100vh;
+    
+}
+
+h1 {
+    padding: 2em;
+    font-size: 3em;  
+}
+
+.subheader {
+    color: black;
+    background: rgba(219, 219, 219, 0.6);
+    padding: 2em;
+}
+
+section {
+    background: #fadf87;
+}
+
+footer {
+    font-size: .5em;
+    color: grey
+}
